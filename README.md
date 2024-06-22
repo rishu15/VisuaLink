@@ -5,7 +5,6 @@
 
 ```bash
 git clone https://github.com/rishu15/VisuaLink.git
-cd zoom-clone
 ```
 
 **Installation**
