@@ -4,7 +4,7 @@
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/zoom-clone.git
+git clone https://github.com/rishu15/VisuaLink.git
 cd zoom-clone
 ```
 
